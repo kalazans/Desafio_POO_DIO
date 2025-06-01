@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24be7994-5ab1-44df-b2ec-07c26cc40f57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IphoneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IphoneApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/INavegador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/INavegador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/IReprodutorMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/IReprodutorMusical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/ITelefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/ITelefone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Iphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Iphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Navegador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Navegador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/ReprodutorMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/ReprodutorMusical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Telefone.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IphoneApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/wende/OneDrive/Documentos/DIO-JAVA/IphoneDIO"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24be7994-5ab1-44df-b2ec-07c26cc40f57" name="Changes" comment="" />
+      <created>1748785051352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748785051352</updated>
+    </task>
+    <servers />
+  </component>
+</project>
